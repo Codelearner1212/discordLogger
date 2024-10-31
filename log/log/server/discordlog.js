@@ -832,5 +832,5 @@ const reactmessage=client.emojis.cache.get('1272720852160483428');
 });
 
 // Log the bot in
-const token = "MTI1MzYzNTk1OTI5MTkwODA5Ng.GYESZe.6L71SdFOyrYBxio0Wk8iXBtZlUsfJltfRvRriA";
+const token = "";
 client.login(token);
