@@ -219,5 +219,5 @@ client.on('messageCreate', async (message) => {
 });
 
 // Log the bot in
-const token = "MTI1MzYzNTk1OTI5MTkwODA5Ng.GYESZe.6L71SdFOyrYBxio0Wk8iXBtZlUsfJltfRvRriA";
+const token = "";
 client.login(token);
